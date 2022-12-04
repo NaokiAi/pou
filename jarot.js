@@ -5770,9 +5770,9 @@ case 'tqto':
 throw `Thanks to
 ┏═┅〔 *SUPPORT* 〕┅═
 ┃⫹⫺ 𝚇𝚎𝚘𝚗
-┃⫹⫺ 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌
+┃⫹⫺ Wisnu 𝙾𝚏𝚏𝚌
 ┃⫹⫺ 𝙾𝚜𝚌𝚊𝚛 𝚘𝚏𝚌
-┗═┅〔 *Made By Jarot* 〕┅═`
+┗═┅〔 *Made By Wisnu* 〕┅═`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
@@ -5782,7 +5782,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let jarot = `┏─────────────────⬣
 ┆ 𝑯𝒂𝒊, ${ucapanWaktu} ${pushname}
 ┗┬──────────────┈ ⳹
-┏┤ 𝙸𝚗𝚏𝚘 𝙱𝚘𝚝 𝙾𝚜𝚌𝚊𝚛
+┏┤ 𝙸𝚗𝚏𝚘 𝙱𝚘𝚝 Doro
 ┆┗──────────────┈ ⳹
 ┆♠︎ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
 ┆♠︎ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ${global.ownername}
@@ -5836,7 +5836,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             break
             case 'command': {
 	const sections = [{
-								"title": "𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎",
+								"title": Doro-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎",
 								"rows": [
 									{
 										"title": "𝘔𝘦𝘯𝘶 𝘖𝘵𝘩𝘦𝘳",
@@ -5846,7 +5846,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								]
 							},
 							{
-								"title": "𝙻𝚒𝚜𝚝 𝙾𝚜𝚌𝚊𝚛-𝙼𝚍️",
+								"title": "𝙻𝚒𝚜𝚝 Doro-𝙼𝚍️",
 								"rows": [
 									{
 										"title": "𝘚𝘦𝘮𝘶𝘢 𝘗𝘦𝘳𝘪𝘯𝘵𝘢𝘩",
@@ -5955,7 +5955,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								"rows": [
 									{
 										"title": "Thanks To ❤️",
-										"description": "𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘊𝘩𝘢𝘯𝘦𝘭 𝘑𝘢𝘳𝘰𝘵 𝘰𝘧𝘤",
+										"description": "𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘊𝘩𝘢𝘯𝘦𝘭 Wisnu 𝘰𝘧𝘤",
 										"rowId": `${prefix}tqto`
 									}
 								]
@@ -5985,7 +5985,7 @@ let fot = `𝙽𝚘𝚝𝚎 𝙹𝚒𝚔𝚊 𝙼𝚎𝚗𝚎𝚖𝚞𝚔𝚊�
 `
 const listMessage = {
 footer: fot,
-text: 'Made By Jarot Offc',
+text: 'Made By Wisnu Offc',
 title: con,
 buttonText: `CLICK HERE ⎙`, 
 sections
